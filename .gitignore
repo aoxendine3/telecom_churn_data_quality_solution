@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Download via kaggle CLI)
+*.zip
+churn_labels.csv
+customer_info.csv
+usage_data.csv
+submission.csv
+test_sub.csv
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

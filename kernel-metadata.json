@@ -1,0 +1,16 @@
+{
+  "id": "anthonyoxendine/telecom-customer-churn-data-quality-challenge-100",
+  "title": "Telecom Customer Churn Data Quality Challenge - 1.00000 Winner",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [
+    "telecom-customer-churn-data-quality-challenge"
+  ],
+  "kernel_sources": []
+}
